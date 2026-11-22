@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+sentence-transformers
+umap-learn
+hdbscan
+transformers
+torch
+sentencepiece
+nltk
+google-genai
